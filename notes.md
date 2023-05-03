@@ -23,15 +23,15 @@ and this
 - Or the HSL: `hsl(H,S,L)`
 
 - You can also make lists: 
-  -unordered with "-,*, or +"
-  -ordered with numbers
+  - unordered with "-,*, or +"
+  - ordered with numbers
    1. Hey
    2. There
    3. Friend
 - You can mark lists with
-	[] Do this
-	[] Then this
-	[x] This is done
+ - [] Do this
+ - [] Then this
+ - [x] This is done
 	\(escape parentheses asi)
 
 - You can also[^1] add footnotes[^2] like this
