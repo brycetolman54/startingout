@@ -3,11 +3,11 @@
 	Link for my Read Me [README](README.md)
 
 - You can use "#" for first level heading, "##" for second level, and "###" for third
-- Bold can be accomplished with ** Bold I am **
-- Italics can be accomplished by * Here it is *
-- Strikethrough with ~~ Like this ~~
-- Bold with nested italics is ** Oh me _oh_ my ** with the _ _ for the italics
-- *** Me oh my *** for all italics and bold
+- Bold can be accomplished with **Bold I am**
+- Italics can be accomplished by *Here it is*
+- Strikethrough with ~~Like this~~
+- Bold with nested italics is **Oh me _oh_ my** with the _ _ for the italics
+- ***Me oh my*** for all italics and bold
 - <sub>down here</sub> for subscript
 - <sup>up here</sup> for superscript
 - You just use > to quote text
@@ -23,11 +23,11 @@ and this
 - Or the HSL: `hsl(H,S,L)`
 
 - You can also make lists: 
-	unordered with "-,*, or +"
-	ordered with numbers
-		1. Hey
-		2. There
-		3. Friend
+  -unordered with "-,*, or +"
+  -ordered with numbers
+   1. Hey
+   2. There
+   3. Friend
 - You can mark lists with
 	[] Do this
 	[] Then this
