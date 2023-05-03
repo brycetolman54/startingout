@@ -25,12 +25,12 @@ and this
 - You can also make lists: 
   - unordered with "-,*, or +"
   - ordered with numbers
-   1. Hey
-   2. There
-   3. Friend
+    1. Hey
+    2. There
+    3. Friend
 - You can mark lists with
- - [] Do this
- - [] Then this
+ - [ ] Do this
+ - [ ] Then this
  - [x] This is done
 	\(escape parentheses asi)
 
