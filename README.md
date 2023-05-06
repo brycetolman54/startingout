@@ -2,4 +2,5 @@
 
  - Here are my notes: [Notes](notes.md)
 
- # My Idea
+ - Here is my main idea:
+
