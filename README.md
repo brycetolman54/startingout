@@ -36,5 +36,5 @@ great game of Monopoly so each person is their own banker.
 
 ## The Vision
 **Here is how I envision the website:**
-![Picture of my idea for a Monopoly wallet](CS260 Design.jpg)
+![Picture of my idea for a Monopoly wallet]('CS260 Design.jpg')
 
