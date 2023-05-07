@@ -10,8 +10,6 @@ great game of Monopoly so each person is their own banker.
 **The website will do the following things:**
  - Keep track of the money in your wallet
  - Keep track of the properties you own and the buildings you have on each
- - Keep track of the Chance and Community Chest piles and 
-   perform their actions when you have to draw one of those cards
  - Allow you to pay _other people_ when you land on their properties
  - Allow you to pay _the bank_ when necessary
  - Keep track of the amount of money in the middle of the board
