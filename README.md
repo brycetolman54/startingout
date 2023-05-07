@@ -5,7 +5,14 @@
 # Startup specifications:
 ## The Idea
 I am going to create a **Monopoly Wallet** that will help people in playing the 
-great game of Monopoly so each person is their own banker.
+great game of Monopoly so each person is their own banker. We all know that
+Monopoly, the great game that it is, has one flaw: taking care of our money and 
+even knowing hpw to calculate 10% of what we have in order to pay taxes. This 
+**Monopoly Wallet** will come equipped to help players relieve themselves of the burden
+of physical cash and the need to keep track of their money. They will be able to 
+focus more on the pure fun of dominating others as they build their monopoly. Furthermore,
+the data we collect with the app will allow us to find the best way to win Monopoly and
+to see if it really is the game that takes the longest to play!
 
 **The website will do the following things:**
  - Keep track of the money in your wallet
